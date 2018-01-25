@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  getirHackathon
+
+  Created by Emre HAVAN on 25.01.2018.
+  Copyright © 2018 Emre HAVAN. All rights reserved.
+*/
+
+//Required Field Alert
+"requiredFieldsAlert" = "Please fill all the required fields.";
+"requiredFieldsAlertDetail" = "Please make sure you have filled all the required fields.";
+"showAlerActionTitle" = "Okay";
+
+//Connection Error
+"connectionError" = "Make sure you have internet access. If this problem occurs with a valid connection, please contact support.";
+"connectionErrorTitle" = "Connection Error";

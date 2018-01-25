@@ -1,0 +1,30 @@
+
+/* Class = "UITextField"; placeholder = "Maximum count"; ObjectID = "2Hb-Fz-Hfm"; */
+"2Hb-Fz-Hfm.placeholder" = "Maksimum Sayı";
+
+/* Class = "UITextField"; placeholder = "Pick the end date"; ObjectID = "6fz-vk-VK5"; */
+"6fz-vk-VK5.placeholder" = "Bitiş tarihini seçiniz.";
+
+/* Class = "UITextField"; placeholder = "Pick the beginning date"; ObjectID = "NaR-Ju-5cq"; */
+"NaR-Ju-5cq.placeholder" = "Başlangıç tarihini seçiniz.";
+
+/* Class = "UILabel"; text = "Value:"; ObjectID = "SRo-aN-Q4B"; */
+"SRo-aN-Q4B.text" = "Value:";
+
+/* Class = "UINavigationItem"; title = "Data Configuration"; ObjectID = "Tkw-bx-ocE"; */
+"Tkw-bx-ocE.title" = "Veri Ayarları";
+
+/* Class = "UIButton"; normalTitle = "Let's Start"; ObjectID = "UIm-f0-tCL"; */
+"UIm-f0-tCL.normalTitle" = "Haydi Başlayalım";
+
+/* Class = "UILabel"; text = "Creation date:"; ObjectID = "X1F-hF-Orr"; */
+"X1F-hF-Orr.text" = "Creation date:";
+
+/* Class = "UILabel"; text = "ID:"; ObjectID = "eKF-oq-b7Y"; */
+"eKF-oq-b7Y.text" = "ID:";
+
+/* Class = "UILabel"; text = "Key:"; ObjectID = "mgh-lG-ylV"; */
+"mgh-lG-ylV.text" = "Key:";
+
+/* Class = "UITextField"; placeholder = "Minimum count"; ObjectID = "ncm-Dd-zz5"; */
+"ncm-Dd-zz5.placeholder" = "Minimum Sayı";
