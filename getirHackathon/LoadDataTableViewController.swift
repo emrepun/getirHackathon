@@ -35,10 +35,10 @@ class LoadDataTableViewController: UITableViewController {
         
         let baseUrl = "https://getir-bitaksi-hackathon.herokuapp.com/searchRecords"
         let fetchParameters: Parameters = [
-            //"startDate": "\(incommingParameters[0])",
-            "startDate": "2015-02-02",
-            "endDate": "2017-02-02",
-            //"endDate": "\(incommingParameters[1])",
+            "startDate": "\(incommingParameters[0])",
+            //"startDate": "2015-02-02",
+            //"endDate": "2017-02-02",
+            "endDate": "\(incommingParameters[1])",
             "minCount": Int(incommingParameters[2]) ?? 2700,
             "maxCount": Int(incommingParameters[3]) ?? 3000,
             ]
